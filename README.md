@@ -1,7 +1,6 @@
 # NLP_ND
 - įkelti praitų laboratorinių apmokytus modelius
 - įkelti šio kodo apmokytus modelius
-- įkelti reikalingus pratinius duomenis
 
 # Notice
 Prieš paleidžiant notebook'ą
